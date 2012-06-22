@@ -1,4 +1,4 @@
 Robot-Readable-Repton
 =====================
 
-Designing a game for machines to play
+Exploring what happens if you try and design a game to be played by another machine using computer vision.

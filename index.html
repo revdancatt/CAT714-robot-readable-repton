@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>The Robot Readable Repton</title>
+  <link href="css/main.css?v=0.0" rel="stylesheet">
+</head>
+<body>
+    <img id="tiles" class="hidden">
+
+    <canvas id="canvasTiles" width="585" height="64" class="hidden"></canvas>
+    <canvas id="canvasSourceMap" width="2048" height="2048"></canvas>
+
+    <script src="js/control.js?v=0.0"></script>
+    <script src="js/jquery-1.7.min.js?v=0.0"></script>
+    <script>
+        $(document).ready(function() {
+            control.init();
+        });
+    </script>
+</body>
+</html>
