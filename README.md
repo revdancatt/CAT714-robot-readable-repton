@@ -8,4 +8,4 @@ Very early stages atm, so far code that reads in a map from an array of data, re
 Next steps will be to have a smaller "game window" that shows just a smaller area of the map. Then scrolling :)
 
 
-Page runs over here: http://revdancatt.github.com/Robot-Readable-Repton/
+Page runs over here: http://revdancatt.github.com/CAT714-robot-readable-repton
