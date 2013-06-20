@@ -5,8 +5,20 @@ Robot Readable Repton
 
 Exploring what happens if you try and design a game to be played by another machine using computer vision.
 
-Very early stages atm, so far code that reads in a map from an array of data, renders it onto a canvas.
-
-Next steps will be to have a smaller "game window" that shows just a smaller area of the map. Then scrolling :)
+Oh so very early stage at the moment, you can move around using the WASD keys.
 
 + Running: http://revdancatt.github.com/CAT714-robot-readable-repton
+
+TODO
+====
+
+1. Make the boulders fall
+2. Collect diamonds
+3. Register when the level has been completed
+4. Show "score" and instructions on screen
+
+Extra TODO
+==========
+
+Write another webapp that uses the webcam and attempts to control the player and move
+around the map.
