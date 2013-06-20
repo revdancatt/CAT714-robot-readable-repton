@@ -12,9 +12,13 @@ body {
     position: absolute;
     left: 2px;
     top: 2px;
-    padding: 2px;
+    padding: 4px;
 }
 
+.debug a {
+    text-decoration: none;
+    color: rgb(64, 255, 192);
+}
 .hidden {
     display: none;
 }
