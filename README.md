@@ -1,7 +1,7 @@
 ![Screen Shot](http://cattopus23.com/img/panel-CAT714.png)
 
-Robot Readable Repton
-=====================
+CAT714 Robot Readable Repton
+============================
 
 Exploring what happens if you try and design a game to be played by another machine using computer vision.
 
